@@ -1,3 +1,4 @@
 This is LazyGit demo repository.
 
-Description:
+- It has shortcut for every git workflow.
+- No need to touch mouse at all
